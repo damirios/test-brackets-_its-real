@@ -1,0 +1,22 @@
+{
+  "name": "test-brackets-_its-real",
+  "version": "1.0.0",
+  "description": "Тестовое задание для Its Real.",
+  "main": "bracketNumber.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/damirios/test-brackets-_its-real.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/damirios/test-brackets-_its-real/issues"
+  },
+  "homepage": "https://github.com/damirios/test-brackets-_its-real#readme",
+  "dependencies": {
+    "jest": "^29.3.1"
+  }
+}
